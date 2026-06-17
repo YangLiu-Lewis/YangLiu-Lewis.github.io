@@ -3,6 +3,24 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+## Yang Liu
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+CS student at the University of New South Wales (UNSW), Sydney.
+
+### Research Interests
+
+- (your research directions here)
+
+### Education
+
+- **B.S. in Computer Science**, UNSW, Sydney (expected 20XX)
+
+### Skills
+
+- **Languages:** Python, Java, C, ...
+- **Tools:** Git, Linux, ...
+
+### Contact
+
+- Email: [z5539467@ad.unsw.edu.au](mailto:z5539467@ad.unsw.edu.au)
+- GitHub: [YangLiu-Lewis](https://github.com/YangLiu-Lewis)

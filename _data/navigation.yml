@@ -1,4 +1,8 @@
-- title: Blog
+- title: Papers
   url: /
+- title: Projects
+  url: /projects/
+- title: Life
+  url: /life/
 - title: About
   url: /about/
