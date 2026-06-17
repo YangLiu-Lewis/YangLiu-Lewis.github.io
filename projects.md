@@ -3,68 +3,40 @@ layout: page
 title: Projects
 ---
 
-### AI Welding Inspection System
-**BorgWarner · Nov 2024 – Feb 2025**
+### AI Welding Inspector
 
-Developed and deployed an AI-driven welding-inspection system for EV stator hairpin copper joints, combining deep learning with structured-light imaging.
+A deep-learning vision system that spots defective welds on EV stator production lines, using structured-light imaging to handle tricky copper reflections. Deployed at BorgWarner with 0.3% error rate.
 
-- Implemented PatchCore anomaly detection with coreset subsampling for real-time inference
-- Reduced false- and missed-detection rates to **0.3%**, exceeding company quality benchmarks
-- Deployed production-ready inference pipeline
+<small>PatchCore · OpenCV · Structured-light Imaging</small>
 
 ---
 
-### AI-Powered Drone Surveillance Platform
-**Jiangsu Zhonggong Zhilian Robotics · Dec 2023 – May 2024**
+### Drone Surveillance Platform
 
-Led design of an aerial surveillance platform with real-time video streaming and on-the-fly object detection.
+Real-time aerial object detection with low-latency video streaming. Fine-tuned YOLO for forest-fire localisation from drone footage. Showcased at the 2024 Yizheng Low-Altitude Economy Summit.
 
-- Implemented RTMP protocol for low-latency real-time video streaming
-- Fine-tuned YOLO on custom aerial dataset for forest-fire localisation
-- Showcased at the 2024 Yizheng Low-Altitude Economy Summit
+<small>YOLO · RTMP · Aerial CV</small>
 
 ---
 
-### Multi-Agent Drone Herding via Reinforcement Learning
-**Pengcheng Lab, Tsinghua Shenzhen · Jul 2022 – Oct 2022**
+### Multi-Agent Drone Herding
 
-Built a multi-agent physics simulation for drone-herding tasks.
+A reinforcement learning playground where drones learn to herd flocking agents into target zones, with Boids-based physics simulation in Unreal Engine.
 
-- Implemented Boids algorithm for realistic flocking dynamics in Unreal Engine
-- Formulated herding task as MDP with custom reward functions
-- Trained continuous-control policies with Stable-Baselines3 (PPO/SAC)
+<small>Stable-Baselines3 · Unreal Engine · PPO/SAC</small>
 
 ---
 
 ### Autonomous Delivery Drone
-**National Engineering Competition · 2020 · Tech Lead**
 
-Designed and built an autonomous drone delivery system for simulated logistics scenarios.
+A drone that picks up cargo, recognises items, dodges obstacles, and drops off at the right spot — all autonomously. Built as Tech Lead for a national engineering competition.
 
-- Onboard CV-based perception for cargo pickup and target-item recognition
-- Sensor-fused obstacle detection and waypoint planning
-- Precision drop-off at designated delivery zones
-- **Provincial Prize**, China Undergraduate Engineering Practice and Innovation Ability Competition
+<small>Computer Vision · Sensor Fusion · Waypoint Planning</small>
 
 ---
 
 ### RoboMaster Hexacopter
-**RoboMaster University Championship · 2021**
 
-Built ROS-based navigation and perception stack for a custom hexacopter drone.
+ROS-based navigation and perception for a competition hexacopter — 2D LiDAR SLAM with vision fusion for tracking under dynamic lighting.
 
-- 2D LiDAR SLAM pipeline
-- LiDAR-vision fusion for active visual tracking under dynamic lighting
-- **National Second Prize**
-
----
-
-### Autonomous Driving Pipeline
-**China University Robotics & AI Competition · 2021**
-
-End-to-end autonomous-driving pipeline using deep learning for real-time visual lane detection.
-
-- Steering-angle and wheel-velocity prediction via deep learning
-- LiDAR-vision fusion for closed-loop control
-- 95% detection accuracy
-- **National First Prize**
+<small>ROS · LiDAR SLAM · LiDAR-Vision Fusion</small>
