@@ -5,31 +5,21 @@ title: About
 
 ## Yang Liu
 
-Master of IT (Artificial Intelligence) candidate at the University of New South Wales, Sydney. My research focuses on **continual learning for large language models and vision-language models**, supervised by [Prof. Flora Salim](https://scholar.google.com/citations?user=BG5MjCIAAAAJ). First author of a 2026 paper on Mixture-of-Experts continual learning (CP-MoE).
+Master of IT (Artificial Intelligence) candidate at the University of New South Wales, Sydney. My research focuses on **continual learning for large language models and vision-language models** — in particular, Mixture-of-Experts architectures and how to make models keep learning without forgetting. Supervised by [Prof. Flora Salim](https://scholar.google.com/citations?user=Yz35RSYAAAAJ&hl=en).
 
-I also have industry experience shipping AI systems — from anomaly-detection vision systems on EV production lines to drone perception platforms.
+Models forget. So do we. That shared problem is what drew me to continual learning — and to a philosopher who thought deeply about what we carry, what we overcome, and what we create.
 
-### Research Interests
+### Philosophy
 
-- Continual Learning
-- Mixture-of-Experts (MoE)
-- Large Language Models & Vision-Language Models
-- Computer Vision
+Nietzsche describes three metamorphoses of the spirit: the **Camel**, the **Lion**, and the **Child**.
 
-### Education
+The Camel kneels and takes on the heaviest burdens — duty, expectation, the weight of "you should." It walks into the desert carrying everything the world demands of it, believing endurance is virtue.
 
-- **M.IT (Artificial Intelligence)**, University of New South Wales, Sydney (Expected Aug 2026)
-- **B.Eng, Intelligent Science and Technology**, Jiangsu University, China (Sep 2020 – Jul 2024)
+The Lion rises against the great dragon — the dragon whose every scale is inscribed with **"Thou Shalt."** This dragon is the world's accumulated "you should" and "you should not": the career you should pursue, the life you should live, the person you should become. The Lion's sacred "No" shatters these imposed values and clears the ground for something new.
 
-### Technical Skills
+The Child is the final becoming — a new beginning, a wheel rolling out of its own centre. Not rebellion, but creation. Not refusal, but pure affirmation.
 
-- **Programming:** Python (expert), C/C++, SQL, Bash
-- **Deep Learning:** PyTorch, Hugging Face Transformers, TensorFlow
-- **LLMs & Multimodal:** LoRA / PEFT, Continual Learning, MoE, Llama-adapter
-- **Computer Vision:** YOLO (v8/v10), OpenCV, PatchCore, structured-light imaging
-- **Reinforcement Learning:** Stable-Baselines3 (PPO/SAC), MDP design, reward shaping
-- **Robotics:** ROS, 2D LiDAR SLAM
-- **MLOps:** Git, Linux, CUDA, distributed GPU training
+We have all been the Camel. Perhaps it is worth asking: how much of what I carry is truly mine?
 
 ### Contact
 

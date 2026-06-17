@@ -15,7 +15,8 @@
 
 .avatar-image {
   width: 30%;
-  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   border-radius: 50%;
   display: block;
   margin-right: auto;
